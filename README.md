@@ -31,9 +31,17 @@ XNLI is distributed in a single ZIP file containing the corpus as both JSON line
 
 Download: [XNLI 1.0](https://s3.amazonaws.com/xnli/XNLI-1.0.zip) (17MB, ZIP)
 
-XNLI can also be used as a 15way parallel corpus of 10,000 sentences, for building or evaluating Machine Translation systems. XNLI also contributes to augmenting the amount of open parallel data for low-resource languages such as Swahili or Urdu.
+XNLI can also be used as a 15way parallel corpus of 10,000 sentences, for building or evaluating Machine Translation systems. XNLI provides additional open parallel data for low-resource languages such as Swahili or Urdu.
 
 Download [XNLI-15way](https://s3.amazonaws.com/xnli/XNLI-15way.zip) (12MB, ZIP)
+
+## Useful XLU resources
+Parallel data for aligning sentence encoders: [OPUS: the open parallel corpus](http://opus.nlpl.eu/)
+
+Monolingual word embeddings in 157 languages: [fastText CommonCrawl vectors](https://github.com/facebookresearch/fastText/blob/master/docs/crawl-vectors.md)
+
+Aligning word embeddings: [MUSE](https://github.com/facebookresearch/MUSE)
+
 
 ## Data description paper and citation
 
